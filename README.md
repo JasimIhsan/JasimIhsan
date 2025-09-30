@@ -37,7 +37,7 @@ Tech Stack: React, Node.js, Express, MongoDB, Tailwind
 
 ### 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/jasimihsan)  
-- [Portfolio](https://your-portfolio-link.com) *(replace with your portfolio if you have one)*  
+- [Portfolio](https://your-portfolio-link.com)
 - [LeetCode](https://leetcode.com/u/yAVcgkzCPz/)  
 
 ---
